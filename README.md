@@ -7,4 +7,3 @@ Our idea of AI drone  based on ST DRONE platform with some extra feature
 
 "filmik" 
 https://drive.google.com/file/d/1GXrBme5F6vekbRHfUxp18unlKU7jm7H8/view?fbclid=IwAR161DAlpdUKb-dthbnUxTlx7e1KlyV-3BuVRtyMnqcj1ha7e1ImZnqlYCM 
-https://youtu.be/_XbPYuoaExg
